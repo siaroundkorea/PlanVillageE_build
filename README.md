@@ -1,4 +1,4 @@
-# Plan-Viilage
+# Plan-ViilageE
 
 ![스크린샷 2022-06-09 오후 3 19 45](https://user-images.githubusercontent.com/81952080/172778265-3e181c73-5101-4019-b3a2-76c1557946c1.png)
 
@@ -32,6 +32,8 @@ Design : s.songfor\_
 2. 교육용 웹 통신 게임
 
 ### `Version`
+
+2022.11. ver. 2.3.5 (team EDU version + Original version = Deluxe version)
 
 2022.10. ver. 2.3.3 (team EDU version update)
 
